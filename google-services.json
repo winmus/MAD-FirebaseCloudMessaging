@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "924066846476",
+    "firebase_url": "https://fir-react-ed540.firebaseio.com",
+    "project_id": "fir-react-ed540",
+    "storage_bucket": "fir-react-ed540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924066846476:android:94f0681dc821f130",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924066846476-0d718lmnf2cm8d2fvqnpucqm6kt9d4n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGj9iYAFjlJB6duEzSd0n58iLREkJBg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
